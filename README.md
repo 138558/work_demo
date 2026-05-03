@@ -1,6 +1,7 @@
 # Coding Interview Assessment Solution
 
 This repository contains solutions for the four tasks in the coding interview assessment.
+<img width="1806" height="972" alt="QQ浏览器截图20260503131046" src="https://github.com/user-attachments/assets/c287c8fa-9c27-4b4f-8732-890c2ae0e8c2" />
 
 ## Structure
 
